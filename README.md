@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository explores the University Ranking Dataset using SQLite, demonstrating the usage various database operations. It involves connecting to the database, running analysis queries to explore and interpret the data, and performing CRUD (Create, Read, Update, Delete) operations. 
+This repository explores the University Ranking Dataset using SQLite, demonstrating the usage of various database operations. It involves connecting to the database, running analysis queries to explore and interpret the data, and performing CRUD (Create, Read, Update, Delete) operations. 
 
 
 ## Set Up Instructions
